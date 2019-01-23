@@ -1,0 +1,22 @@
+{
+  "name": "load-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "artillery run hello.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixiii/loadTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixiii/loadTest/issues"
+  },
+  "homepage": "https://github.com/lixiii/loadTest#readme",
+  "dependencies": {
+    "artillery": "^1.6.0-26"
+  }
+}
